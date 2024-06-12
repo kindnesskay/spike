@@ -1,0 +1,13 @@
+# Python virtual environment folders
+Include/
+Lib/
+Scripts/
+PyVenv.cfg
+run.bat
+
+# Ignore specific environment files and scripts
+*.env
+deleteDir.py
+
+# Ignore the entire files directory
+api/files/
